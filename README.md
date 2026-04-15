@@ -9,6 +9,10 @@
 
 ## 🧩 [效果示意](https://peterpanswift.github.io/iphone-bezels/)
 
+![](https://github.com/user-attachments/assets/39350d30-b1cf-41c5-b103-886fd66c1b56)
+
+https://github.com/user-attachments/assets/4d5c0204-b1e3-411c-99e7-9ffa7533ab0a
+
 <div align="center">
 
 **⭐ 覺得好用就給個 Star 吧！**
