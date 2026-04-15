@@ -172,7 +172,7 @@ view.wwShowDebugOverlay(
 - 在 `viewDidLayoutSubviews()` 中呼叫 `wwupdateDebugOverlay()`
 - 用於 Auto Layout 除錯流程
 - 依應用程式設計系統自訂顏色
-- 出貨前移除疊加層 (`ww_hideDebugOverlay()`)
+- 出貨前移除疊加層 (`wwHideDebugOverlay()`)
 
 ❌ **避免：**
 - 版面完成後忘記更新框架
